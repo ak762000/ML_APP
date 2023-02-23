@@ -1,9 +1,10 @@
+streamlit
+sklearn
 pandas 
 numpy 
 matplotlib
-scikit-learn
 seaborn
-xgboost
+scikit-learn
 imblearn
-streamlit
-sklearn
+xgboost
+statsmodels
