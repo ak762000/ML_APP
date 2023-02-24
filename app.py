@@ -14,7 +14,7 @@ height = st.number_input("Enter height")
 weight = st.number_input("Enter weight")
 
 #Dropdown Input
-eyes= st.selectbox("Select Eye Colour",("Blue","Brown"))
+eyes= st.selectbox("Select Eye Colour",("Eye Colour","Blue","Brown"))
 
 #Button is pressed
 if st.button("Submit"):
